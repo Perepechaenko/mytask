@@ -1,0 +1,31 @@
+        h1{
+         position: relative; 
+         text-align: center;  
+        }
+        p{
+         position: relative; 
+         left: 10%;width: 50%;  
+         font-size: 20px;"> 
+        }
+        h2{
+        position: relative;
+        text-align: center;
+        font-size: 30px;
+        }
+        h3{
+        position: relative;
+        text-align: center;
+        font-size: 30px;    
+        }
+        p.test1{
+            position: relative;
+            left: 30%;width:80%;
+            font-size: 20px;
+        }
+         p{
+         position: relative;
+         left: 30%;width:80%;
+         font-size: 20px;
+
+
+        }
